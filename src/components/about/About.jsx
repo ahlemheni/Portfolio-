@@ -11,7 +11,7 @@ export const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt='About Image'/>
+          <img src={ME} alt='About Image'/>
 
           </div>
         </div>
@@ -21,7 +21,7 @@ export const About = () => {
             <article className="about__card">
             <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small> débutant</small>
+              <small> beginner</small>
             </article>
             
           
@@ -29,7 +29,7 @@ export const About = () => {
             <article className="about__card">
             <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small> 2 Completed</small>
+              <small> 3 Completed</small>
             </article>
 
 

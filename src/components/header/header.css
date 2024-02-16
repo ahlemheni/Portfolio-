@@ -10,7 +10,7 @@ header{
 }
 /* ============CTA=============*/
 .cta{
-    margin-top: 2.5rem;
+   
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -41,14 +41,14 @@ header{
 /* ============ME=============*/
 .me{
     background: var(--color-primary);
-    width: 22rem;
-    height: 30rem;
+    width: 20rem;
+    height: 27rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 12rem 12rem ;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 5rem 5rem 5rem 5rem;
 
 }
 /* ============SCROLL DOWN=============*/

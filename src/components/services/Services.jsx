@@ -17,12 +17,12 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Adobe Photoshop</p>
+              <p>Adobe After Effects</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Adobe xd</p>
+              <p>Adobe Photoshop</p>
             </li>
 
             <li>
@@ -77,7 +77,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Angular</p>
+              <p>React</p>
             </li>
 
             <li>
@@ -92,7 +92,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>React</p>
+              <p>Angular</p>
             </li>
 
             <li>
