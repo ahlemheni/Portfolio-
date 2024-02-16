@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio-/static/css/main.81de17ed.css",
+    "main.js": "/Portfolio-/static/js/main.2d3288ac.js",
+    "static/media/Affiche-xbanner.png": "/Portfolio-/static/media/Affiche-xbanner.ef343588e2b8c6d5cd57.png",
+    "static/media/affiche3 (1).png": "/Portfolio-/static/media/affiche3 (1).026d6983f24ca19eea58.png",
+    "static/media/CV.pdf": "/Portfolio-/static/media/CV.b453efe4e9a5de64efda.pdf",
+    "static/media/portfolio2.PNG": "/Portfolio-/static/media/portfolio2.015b6b0b968369fbb596.PNG",
+    "static/media/Capture.PNG": "/Portfolio-/static/media/Capture.b16c03b7c5b80163ecb0.PNG",
+    "static/media/back_c-v.png": "/Portfolio-/static/media/back_c-v.f7dc5f10ffcdeab31fcd.png",
+    "static/media/Composition 1_00000.png": "/Portfolio-/static/media/Composition 1_00000.fc23c4b6e02af53776df.png",
+    "static/media/carnet (1)_page-0001.jpg": "/Portfolio-/static/media/carnet (1)_page-0001.1550833ffb3b57cd4038.jpg",
+    "static/media/me.jpg": "/Portfolio-/static/media/me.e4ea06312a5be451ea87.jpg",
+    "static/media/AFFICHE IMPRIMANTE copie.png": "/Portfolio-/static/media/AFFICHE IMPRIMANTE copie.08c0a5c466dda7db30fc.png",
+    "static/media/me-about.jpg": "/Portfolio-/static/media/me-about.b40b21530b78de1227d1.jpg",
+    "static/media/a12879_ecotank-lifestyle_s2_4_001_l3211_lr copie.png": "/Portfolio-/static/media/a12879_ecotank-lifestyle_s2_4_001_l3211_lr copie.7b36141210b2b02d749b.png",
+    "static/media/Minimalist Business Letterhead (19)_page-0001.jpg": "/Portfolio-/static/media/Minimalist Business Letterhead (19)_page-0001.b699bd7f9c04ff66a130.jpg",
+    "static/media/Sans titre-2.png": "/Portfolio-/static/media/Sans titre-2.b8d31b0c76cc91896c95.png",
+    "static/media/Services.jpg": "/Portfolio-/static/media/Services.90b07755196c52487f47.jpg",
+    "static/media/front-c-v copie (1).png": "/Portfolio-/static/media/front-c-v copie (1).b353f7ea5e3cc11caf3a.png",
+    "static/media/carte.png": "/Portfolio-/static/media/carte.ec8467e73e6d37729388.png",
+    "static/media/carte-visite1__page-0001.jpg": "/Portfolio-/static/media/carte-visite1__page-0001.4fae533fffadf1496a47.jpg",
+    "static/media/portfolio1.PNG": "/Portfolio-/static/media/portfolio1.3d0f312ded31937cb39b.PNG",
+    "static/media/A (1).png": "/Portfolio-/static/media/A (1).b2fc00bdd0b7f09c4f29.png",
+    "index.html": "/Portfolio-/index.html",
+    "main.81de17ed.css.map": "/Portfolio-/static/css/main.81de17ed.css.map",
+    "main.2d3288ac.js.map": "/Portfolio-/static/js/main.2d3288ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81de17ed.css",
+    "static/js/main.2d3288ac.js"
+  ]
+}
