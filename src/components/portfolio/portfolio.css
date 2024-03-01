@@ -20,8 +20,10 @@
 
 }
 .portfolio__item h3{
-   margin:  1.2rem 0 2rem;
+    border-color: var(--color-primary-variant);
+    background: transparent;
 }
+
 .portfolio__item-cta{
     display: flex;
     gap: 1rem;

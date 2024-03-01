@@ -99,7 +99,10 @@ const Services = () => {
               <BiCheck className='service__list-icon'/>
               <p>JavaScript</p>
             </li>
-
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>WordPress</p>
+            </li>
             <li>
               <BiCheck className='service__list-icon'/>
               <p>Bootstrap</p>
