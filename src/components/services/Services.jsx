@@ -17,6 +17,22 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
+              <p>Figma</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Adobe XD</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Bootstrap</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Tailwind CSS</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
               <p>Adobe After Effects</p>
             </li>
 

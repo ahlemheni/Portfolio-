@@ -42,15 +42,16 @@ header{
 .me{
     background: var(--color-primary);
     width: 20rem;
-    height: 27rem;
+    height: 20rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 9rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem ;
     overflow: hidden;
-    padding: 5rem 5rem 5rem 5rem;
+    padding: 9.3rem 5rem 5rem 5rem;
 
 }
+
 /* ============SCROLL DOWN=============*/
 .scroll__down {
     position: absolute;
